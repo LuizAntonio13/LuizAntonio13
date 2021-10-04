@@ -2,7 +2,7 @@
 
 - Tenho 16 anos
 - Sou do Rio de Janeiro
-- Futuro Desenvolvedor Front-End
+- Futuro Desenvolvedor
 
 ##
  
