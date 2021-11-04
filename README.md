@@ -6,14 +6,19 @@
 
 ##
 
- 
+<h1>GitHub Stats</h1>
+
+<br>
+
 <div>
 <a href="https://github.com/LuizAntonio13">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAntonio13&layout=compact&langs_count=7&theme=tokyonight"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuizAntonio13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAntonio13&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=LuizAntonio13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
  
-<div style="display: inline_block"><br>
+<br>
+ 
+<div>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
