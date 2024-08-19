@@ -1,7 +1,6 @@
 ## Hello World, my name is Luiz Antonio 😉
 
 - ☀ I'm from Rio de Janeiro
-- 👨‍💻 Future Software Engineer
 - 💻 Programming is fun
 
 ##
