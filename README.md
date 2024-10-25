@@ -1,16 +1,17 @@
-## Hello World, my name is Luiz Antonio 😉
+## Hello World, meu nome é Luiz Antonio 😉
 
-- ☀ I'm from Rio de Janeiro
-- 💻 Programming is fun
+- ☀ Sou do Rio de Janeiro
+- 📚 Curso Sistema de Informação no CEFET-RJ
+- 💻 Apaixonado por tecnologia, sempre estou aprendendo algo novo
 
 ##
 
-<h1>About my Development in Programming</h1>
+<h1>Sobre meu Desenvolvimento em Programação</h1>
 
 <div>
 <a href="https://github.com/LuizAntonio13">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAntonio13&layout=compact&langs_count=7&theme=github_dark"/>
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=LuizAntonio13&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAntonioSantos&layout=compact&langs_count=7&theme=github_dark"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=LuizAntonioSantos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
   
 ##
