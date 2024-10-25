@@ -2,7 +2,7 @@
 
 - ☀ Sou do Rio de Janeiro
 - 📚 Curso Sistema de Informação no CEFET-RJ
-- 💻 Apaixonado por tecnologia, sempre estou aprendendo algo novo
+- 💻 Apaixonado por tecnologia
 
 ##
 
